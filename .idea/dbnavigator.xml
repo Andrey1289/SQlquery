@@ -52,8 +52,8 @@
     <mapping file-url="file://$PROJECT_DIR$/src/main/5.sql" connection-id="3c21a2ae-bf76-460a-b84e-cb57d9d31841" session-id="MAIN" current-schema="practicesqlquery" />
     <mapping file-url="file://$PROJECT_DIR$/src/main/1.sql" connection-id="9d01f081-d92d-469a-83e6-230919748dcc" session-id="MAIN" current-schema="practicesqlquery" />
     <mapping file-url="file://$PROJECT_DIR$/src/main/6.sql" connection-id="3c21a2ae-bf76-460a-b84e-cb57d9d31841" session-id="MAIN" current-schema="practicesqlquery" />
-    <mapping file-url="file://$PROJECT_DIR$/src/main/2.sql" connection-id="9d01f081-d92d-469a-83e6-230919748dcc" session-id="MAIN" current-schema="practicesqlquery" />
-    <mapping file-url="file://$PROJECT_DIR$/src/main/3.sql" connection-id="1b58356f-da9b-4100-876f-6a0e220a8e65" session-id="MAIN" current-schema="practicesqlquery" />
+    <mapping file-url="file://$PROJECT_DIR$/src/main/2.sql" connection-id="3c21a2ae-bf76-460a-b84e-cb57d9d31841" session-id="MAIN" current-schema="practicesqlquery" />
+    <mapping file-url="file://$PROJECT_DIR$/src/main/3.sql" connection-id="3c21a2ae-bf76-460a-b84e-cb57d9d31841" session-id="MAIN" current-schema="practicesqlquery" />
   </component>
   <component name="DBNavigator.Project.MethodExecutionManager">
     <method-browser />
